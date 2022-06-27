@@ -5,6 +5,7 @@ import {
 	FaSlack,
 	FaMedium,
 	FaYoutube,
+	FaFacebook,
 } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
 import { Container, Row, Col, Carousel } from "react-bootstrap";
@@ -62,6 +63,11 @@ const data = [
 		"Youtube",
 		<FaYoutube key={6} className={styles.homeHomeIconImg} />,
 		"https://www.youtube.com/channel/UCSLoGcSzNfpHIzdT6QzsmnQ",
+	],
+	[
+		"Facebook",
+		<FaFacebook key={7} className={styles.homeHomeIconImg} />,
+		"/social-error",
 	],
 ];
 
