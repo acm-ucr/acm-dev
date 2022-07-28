@@ -18,7 +18,7 @@
 		"next": "^12.1.6",
 		"react": "18.2.0",
 		"react-bootstrap": "^2.4.0",
-		"react-dom": "18.2.0",
+		"react-dom": "^18.2.0",
 		"react-icons": "^4.4.0"
 	},
 	"devDependencies": {
@@ -35,6 +35,6 @@
 		"husky": "^8.0.0",
 		"postcss": "^8.4.14",
 		"prettier": "2.7.1",
-		"tailwindcss": "^3.1.4"
+		"tailwindcss": "^3.1.5"
 	}
 }
